@@ -1,6 +1,15 @@
 # privateIP
 Show local IP.
 
+![Locao IP](https://1.bp.blogspot.com/-v5rqNHuRkLk/YUHtffqiDDI/AAAAAAAAACU/bVKFz2AoUBQsmvVAnewSeM1nt2dS_fcogCLcBGAsYHQ/s169/xfce-genmon-plugin-007.png)
+
+This script has been made for use in xfce4-genmon-plugin.
+
+In order to use the icon, [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip) must be installed.
+
+## How to use?
+To do this, we have to add the element to our panel, and configure it, indicating the path of the script and the refresh time.
+
 ## Author
 [Bi$](https://github.com/BiS-9)
 
