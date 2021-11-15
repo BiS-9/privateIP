@@ -31,4 +31,4 @@ P_IP=$([[ $PIP == $PIP ]] && echo "<span foreground='$FC'>  </span><span>$PIP
 
 # Genmon
 echo "<txt>$P_IP</txt>"
-echo "<tool>IP = $PIP</tool>"
+echo "<tool>Local IP</tool>"
