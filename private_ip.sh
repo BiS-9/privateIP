@@ -27,7 +27,7 @@ FC="Cyan" # Foreground colour
 
 # Main program
 PIP=$(ip addr | grep 'state UP' -A2 | tail -n1 | awk '{print $2}' | cut -f1 -d'/')
-P_IP=$([[ $PIP == $PIP ]] && echo "<span foreground='$FC'>  </span><span>$PIP</span>")
+P_IP=$(echo "<span foreground='$FC'>  </span><span>$PIP</span>")
 
 # Genmon
 echo "<txt>$P_IP</txt>"
