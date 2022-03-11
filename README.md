@@ -1,7 +1,7 @@
 # privateIP
-Show local IP.
+Show local IP and SSID.
 
-![Locao IP](https://1.bp.blogspot.com/-v5rqNHuRkLk/YUHtffqiDDI/AAAAAAAAACU/bVKFz2AoUBQsmvVAnewSeM1nt2dS_fcogCLcBGAsYHQ/s169/xfce-genmon-plugin-007.png)
+![Locao IP](https://github.com/BiS-9/privateIP/blob/main/local.gif)
 
 This script has been made for use in xfce4-genmon-plugin.
 
